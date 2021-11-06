@@ -1,1 +1,2 @@
-Synchronization of ball with string is yet to complete
+# Loading-Ring-Animation
+Created a Loading Ring Animation using CSS and html only.
